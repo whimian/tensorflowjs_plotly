@@ -1,0 +1,1 @@
+Simply open `index.html` in browser. Downloading of model may take some time.
